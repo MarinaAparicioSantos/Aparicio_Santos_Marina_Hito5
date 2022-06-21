@@ -1,0 +1,7 @@
+.imagenObra {
+  transition: transform .3s; /* Animation */
+}
+
+.imagenObra:hover {
+  transform: scale(1.44); 
+}

@@ -1,0 +1,5 @@
+.opaco {
+    opacity: .8;
+    filter: alpha(opacity=80);
+    /* Para versiones anteriores de IE */
+}
